@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1470704204425246}
+  m_IsPrefabParent: 1
+--- !u!1 &1470704204425246
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4906753847546606}
+  - component: {fileID: 114111029766931728}
+  m_Layer: 0
+  m_Name: KDAMode
+  m_TagString: Mode
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4906753847546606
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470704204425246}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.403697, y: -0.58595085, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114111029766931728
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470704204425246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb9dc8cf2633934983155c28b40f85e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player:
+  - {fileID: 1435109037953718, guid: 80abed693fc5441429df1a27cfe1f322, type: 2}
+  - {fileID: 1826928827419062, guid: 8f6f6ee6b14b5b44d8d03c7fe43598c8, type: 2}
+  - {fileID: 1789113195333882, guid: 8690312f5cad8634bbc0deddc232a90a, type: 2}
+  - {fileID: 1967417136368510, guid: e4146f8bf11661a48b88ad918ba5519f, type: 2}
+  - {fileID: 1241102596730172, guid: 98f85f6b0319a1444910a248d2c67749, type: 2}
+  - {fileID: 1224965131653574, guid: ea8799af1a13b80498f50fca740863ed, type: 2}
+  - {fileID: 1894689604298986, guid: e10f73b7f43d10c44a97e4c4a1fcf189, type: 2}
+  - {fileID: 1388561133735270, guid: e6de38bebdf8bbb44ae3c56d664a5cde, type: 2}
+  warriorHead:
+  - {fileID: 21300000, guid: 56cc2c62550cf6c4eaa0ad6e668e249d, type: 3}
+  - {fileID: 21300000, guid: e7547a4ebf98ac04d82ebad505aec2f1, type: 3}
+  - {fileID: 21300000, guid: 8c98b444f322dd34db2c590bff31af60, type: 3}
+  - {fileID: 21300000, guid: 1eb686e93c14a22499410d80b6fe8dc1, type: 3}
+  - {fileID: 21300000, guid: fa242470f48664046bbd039db1568c17, type: 3}
+  - {fileID: 21300000, guid: 8c600c1686c767c47b1a7e51c0206e86, type: 3}
+  - {fileID: 21300000, guid: 1fd387adae98832499cfa90b87c889f8, type: 3}
+  - {fileID: 21300000, guid: f90e153322b3dae4fad4809d40fb1b24, type: 3}
+  team:
+  - {fileID: 0}
+  - {fileID: 0}
+  livesLeft: {fileID: 1353137096345042, guid: 7d575ca26674ea640adc7d12f19e7a93, type: 2}
+  score: 
+  roundsWon: 
+  startingScore: 0
+  endScore: 0
+  playersAlive: 0
+  maxRounds: 0
+  currentRound: 0
+  timeLeft: 0
+  restarting: 0

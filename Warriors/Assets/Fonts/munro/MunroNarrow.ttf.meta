@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c52c08c5d47070d409b642d2a04fc9e1
+timeCreated: 1512053265
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Munro Narrow
+  fontNames:
+  - Munro Narrow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

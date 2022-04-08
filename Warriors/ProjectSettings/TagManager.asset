@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hitbox
+  - Floor
+  - Death
+  - Stand
+  - Fountain
+  - Wall
+  - Platform
+  - UI
+  - P1
+  - P2
+  - P3
+  - P4
+  - Environement
+  - Mode
+  - Buffs
+  - Team1
+  - Team2
+  - Parry
+  - Attack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Feet
+  - Player
+  - Leaves
+  - Rum
+  - PirateBirdLayer
+  - WallLayer
+  - ArmorStand
+  - MageHitBox
+  - MageIceShield
+  - MageFeet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2121858849
+    locked: 0
+  - name: Canvas
+    uniqueID: 2245660635
+    locked: 0
