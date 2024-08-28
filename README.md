@@ -1,5 +1,5 @@
-# ClosetWarriors
+# Closet Warriors
 
-Closet Warriors is a video game my friends and I made a few years ago. It is not finished, but it can be played locally.
+Closet Warriors is a is a local PvP fighting game developed in Unity, by me and two friends. Up to four players can choose from a variety of historical warriors, such as pirates, ninjas, samurais, vikings, hoplites, musketeers, and knights and engage in battles. The player with the highest score wins!
 
-The team constisted of three people. One of the other team members and I did the programming.
+You can find more information about the game on the [itch.io](https://closetwarriorsdt.itch.io/closet-warriors) page.
